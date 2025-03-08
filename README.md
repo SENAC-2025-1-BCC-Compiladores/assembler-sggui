@@ -18,3 +18,7 @@ Ao rodar, ele criará um .dump e substituirá dentro do output.mem o binário pa
 O .dump foi criado apenas para um debug mais fácil, não precisa ser utilizado.
 O arquivo que deve ser submetido ao Neander é o output.mem.
 
+**IMPORTANTE**
+
+Lembre-se de verificar se o Neander está configurado para Hexadecimal, assim, os valores ficarão iguais entre o entrada.txt e o que aparecerá no Neander.
+
